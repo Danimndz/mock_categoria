@@ -1,0 +1,38 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "user": "danim",
+      "password": "test123"
+    },
+    {
+      "user": "rodrigo",
+      "password": "test123",
+      "id": "2"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "producto": "ps5",
+      "categoria": "videojuegos",
+      "precio": 234324
+    },
+    {
+      "id": 2,
+      "producto": "cafe mi cielo",
+      "categoria": "alimentos",
+      "precio": 123
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "value": "videojuegos"
+    },
+    {
+      "id": 2,
+      "value": "alimentos"
+    }
+  ]
+}
